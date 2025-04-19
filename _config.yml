@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Lost Futures Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A Digital Exhibit of a collection of items from the 1930s to 1940s regarding the world of tomorrow.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Lost Futures Collection strives to educate and inform of “retro-tech” of the past and how it shapes our technological culture today. This archive gathers artifacts on the various plans and ideas people invented during the industrial revolution in the U.S., all the way to the 1939 New York’s World Fair. Within these moments in time, brings about technological prototypes, speculative multimedia, etc. that help capture what humanity envisioned what their future would become. As we shed light on these speculative ideas, we can make connections between our past and how our current selves create a sense of appreciation, as well as thoughts of what is yet to come for our future selves."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Caren Calvillo
 
